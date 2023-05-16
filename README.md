@@ -1,7 +1,5 @@
-Python Performance Benchmark
+Dataframe Disk Format Performance Benchmark
 ============================
-
-This repository is Python benchmark for common usage in data science.
 
 Forked from: https://github.com/lintseju/python_performance_benchmark
 
